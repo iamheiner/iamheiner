@@ -10,7 +10,6 @@
 ![sql-server](https://img.shields.io/badge/sqlserver-white.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=CC2927)
 ![oracle](https://img.shields.io/badge/oracle-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 ![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![angular](https://img.shields.io/badge/angular-white.svg?style=for-the-badge&logo=angular&logoColor=0F0F11)
 ![openlayers](https://img.shields.io/badge/openlayers-1F6B75.svg?style=for-the-badge&logo=openlayers&logoColor=white)
