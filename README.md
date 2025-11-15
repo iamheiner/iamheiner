@@ -28,7 +28,7 @@ class FullStackDeveloper
     }
 }
 
-var me = new FullStackDeveloper();
+var me = new SeniorSofwareEngineer();
 me.Hi();
 ```
 
