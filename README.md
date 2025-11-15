@@ -10,11 +10,12 @@ class FullStackDeveloper
     FullStackDeveloper()
     {
         Name = "🙋Heiner Abella";
-        Role = "💻Full Stack Developer";
+        Role = "💻Senior Software Engineer";
         AskMeAbout = ["Web development", "MobileApp development", "Software development", "GIS"];
         Skills = new() {
                         Languages = ["C#", "JavaScript", "TypeScript", "🐍Python"],
-                        Frameworks = [".NET", "Angular"],
+                        Frameworks = [".NET", "Java", "Angular"],
+                        Mobile = ["Xamarin", "MAUI"],
                         Databases = ["SQL Server", "Oracle", "🐘PostgreSql", "Sqlite"],
                         DevOps = ["AWS", "🐋Docker", "Nginx"]
         };
