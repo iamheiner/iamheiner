@@ -13,8 +13,8 @@ class SeniorSofwareEngineer
         Role = "💻Senior Software Engineer";
         AskMeAbout = ["Web development", "MobileApp development", "Software development", "GIS"];
         Skills = new() {
-                        Languages = ["C#", "JavaScript", "TypeScript", "🐍Python"],
-                        Frameworks = [".NET", "Java", "Angular"],
+                        Languages = ["C#", "Java", "JavaScript", "TypeScript", "🐍Python"],
+                        Frameworks = [".NET", "Angular"],
                         Mobile = ["Xamarin", "MAUI"],
                         Databases = ["SQL Server", "Oracle", "🐘PostgreSql", "Sqlite"],
                         DevOps = ["AWS", "🐋Docker", "Nginx"]
